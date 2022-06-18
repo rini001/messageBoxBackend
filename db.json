@@ -1,0 +1,14 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "value": "hi"
+    }
+  ],
+  "gif": [
+    {
+      "id": 1,
+      "value": "https://i.pinimg.com/originals/b9/b9/47/b9b947303edbd32ed1388315085d7a96.gif"
+    }
+  ]
+}
